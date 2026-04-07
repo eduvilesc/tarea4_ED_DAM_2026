@@ -1,18 +1,6 @@
-## Getting Started
+## Repositorio Tarea 4 Entoornos de Desarrollo DAM
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+En este repositorio se han subido los archivos utilizados para la Tarea 4 del módulo de Entornos de Desarrollo del ciclo de Desarrollo de Aplicaciones Multiplataforma.
 
-## Folder Structure
+Realizado por Eduardo Villacampa Escartín.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
